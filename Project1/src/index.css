@@ -1,0 +1,22 @@
+/* h1{
+  background-color: lightsalmon;
+  color: black;
+
+  text-align: center;
+  padding: 20px;
+  font-size: 2rem;
+  font-family: Arial, sans-serif;
+ 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+
+
+}
+.nav {
+  background-color: #19a7e3;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  gap: 20px;
+/* } 
