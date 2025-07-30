@@ -3,7 +3,7 @@ import './NavBar.css'; // Assuming you have a CSS file for styling
 function NavBar()
 {
     return(
-        <div className='container'>
+        <div className='container1'>
             <h1 className='logo'>ResumeGen</h1>
         <div className='navlinks'>
             

@@ -2,12 +2,13 @@ import NavBar from "./components/NavBar"
 import HomePage from "./components/HomePage";
 import Resumeform from "./components/ResumeForm";
 import { Routes, Route } from "react-router-dom";
-import {use, useState} from "react"
+import { useState} from "react"
 import { useEffect } from "react";
-import Template1 from "./components/template1";
 import PreviewPage from "./components/PreviewPage";
 import Template2 from "./components/Template2"; 
 import Template3 from "./components/Template3";
+import Template1 from "./components/Template1";
+
 
 function App(){
   useEffect(() => {
